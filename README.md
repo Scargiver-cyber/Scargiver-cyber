@@ -1,40 +1,40 @@
 # Jason Tilson
 
-**Cybersecurity Professional | USAF Veteran (23 yrs) | Security+ | SOC Analyst**
+**USAF Veteran (24 yrs) | Cybersecurity Coach @ RapidAscent | AI Builder | Security+ (Apr 2026)**
 
-Transitioning from 14+ years of operations leadership (Amazon, Luxottica) into cybersecurity. Building security monitoring pipelines, AI-powered automation, and hands-on detection systems.
+Coaching veterans into cybersecurity careers by day. Building the homelab + AI agent stack that powers it by night.
 
-## What I'm Working On
+## What I'm Doing Now
 
-- Security monitoring pipeline with Security Onion, Suricata IDS, and Elastic SIEM
-- Inline network sensor (Raspberry Pi bridge) with honeypot + IDS capturing live traffic
-- AI agent orchestration system with 20+ specialized agents on local LLMs
-- Automated threat intelligence aggregation and reporting
+- **Cybersecurity Coach** at [RapidAscent](https://rapidascent.com) — 1:1 cyber-curriculum coaching and student support for vets moving into SOC, GRC, cloud security, and IR roles at financial services, aerospace, and defense employers. Curriculum depth: Splunk, Active Directory, MITRE ATT&CK, threat hunting, incident response, GRC.
+- **Second Tour** — my vet-owned cybersecurity career launcher: free MOS-to-cyber translator + 3x/week LinkedIn content for vets mid-transition.
+- **The Star Trek Server** — production homelab (Proxmox + two VMs) hosting 30+ services: local LLMs on RTX 3090, RAG over my 280K-file knowledge vault, media stack, agent orchestration, observability, monitoring.
+- **Security+** — targeting April 2026. Operations-to-cyber mindset: risk management applied to technology.
 
-## Skills & Tools
+## The Stack I Build On
 
-**Security:** SIEM (Splunk, Security Onion) | Suricata | Nmap | Metasploit | MITRE ATT&CK | Wireshark
-**Systems:** Linux | Docker | Proxmox | Bash | Python
-**Cloud & Infra:** Virtualization | Network Architecture | Incident Response
-**AI/ML:** LLM Deployment | Ollama | RAG Pipelines | n8n Automation
+**AI / Agents:** Claude Code · Ollama (qwen3.5, gemma) · OpenRouter · Langfuse · custom agent router · RAG over Qdrant
+**Infra:** Proxmox · Docker · systemd · mergerfs · Tailscale · UFW · Beszel
+**Languages:** Python (FastAPI, asyncio) · Bash · Swift (macOS) · Kotlin (Android TV)
+**Security:** SIEM workflows (Splunk) · MITRE ATT&CK · Suricata · Pi-hole / CrowdSec · threat hunting
 
 ## Featured Projects
 
-| Project | Description |
-|---------|-------------|
-| [Password Security Toolkit](https://github.com/Scargiver-cyber/Password-security-toolkit) | CLI tool for password analysis, generation, and breach checking |
-| [Cyber News Automation](https://github.com/Scargiver-cyber/cyber-news-automation) | Automated cybersecurity news aggregation with daily briefings |
-| [Security Scanning](https://github.com/Scargiver-cyber/security-scanning) | Automated network security scanning with monthly reports |
-| [MacCleaner](https://github.com/Scargiver-cyber/MacCleaner) | macOS system maintenance utility for cache and log cleanup |
+| Project | What It Does |
+|---|---|
+| [cyber-news-automation](https://github.com/Scargiver-cyber/cyber-news-automation) | Automated daily cyber briefings + weekly digests → Obsidian |
+| [security-scanning](https://github.com/Scargiver-cyber/security-scanning) | Monthly network vuln scans with reporting |
+| [Password-security-toolkit](https://github.com/Scargiver-cyber/Password-security-toolkit) | CLI for password analysis + breach checking |
+| [MacCleaner](https://github.com/Scargiver-cyber/MacCleaner) | macOS maintenance utility (caches, logs, dev artifacts) |
+| [stratos-fear-rides](https://github.com/Scargiver-cyber/stratos-fear-rides) | Python space-agency simulation (data structures + mission planning) |
 
 ## Background
 
-- **Military:** USAF 1998-2021 (23 years active duty)
-- **Education:** MBA | MS IT Management | BS Computer Information Systems
-- **Certifications:** CompTIA Security+ (2026)
-- **Training:** RapidAscent Cybersecurity Apprenticeship (2026)
+- **Military:** USAF 1998–2021 (24 years, retired E-8)
+- **Education:** MBA · MS IT Management · BS Computer Information Systems
+- **Cert roadmap:** Security+ (Apr 2026) → CySA+ → AWS Security
 
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-jasontilson-blue?style=flat&logo=linkedin)](https://linkedin.com/in/jasontilson)
-[![Schedule](https://img.shields.io/badge/Calendly-Schedule_a_Chat-green?style=flat&logo=calendly)](https://calendly.com/jason-tilson/30min)
+[![Email](https://img.shields.io/badge/Email-jason.tilson@gmail.com-red?style=flat&logo=gmail)](mailto:jason.tilson@gmail.com)
