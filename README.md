@@ -6,7 +6,7 @@ Coaching veterans into cybersecurity careers by day. Building the homelab + AI a
 
 ## What I'm Doing Now
 
-- **Cybersecurity Coach** at [RapidAscent](https://rapidascent.com) — 1:1 cyber-curriculum coaching and student support for vets moving into SOC, GRC, cloud security, and IR roles at financial services, aerospace, and defense employers. Curriculum depth: Splunk, Active Directory, MITRE ATT&CK, threat hunting, incident response, GRC.
+- **Cybersecurity Coach** at [RapidAscent](https://rapidascent.com) — I coach vets through our cyber curriculum, run and maintain the VM range cohorts use for hands-on labs, and support students 1:1 on cyber issues outside of class. Curriculum depth: Splunk, Active Directory, MITRE ATT&CK, threat hunting, incident response, GRC.
 - **Second Tour** — my vet-owned cybersecurity career launcher: free MOS-to-cyber translator + 3x/week LinkedIn content for vets mid-transition.
 - **The Star Trek Server** — production homelab (Proxmox + two VMs) hosting 30+ services: local LLMs on RTX 3090, RAG over my 280K-file knowledge vault, media stack, agent orchestration, observability, monitoring.
 - **Security+** — targeting April 2026. Operations-to-cyber mindset: risk management applied to technology.
