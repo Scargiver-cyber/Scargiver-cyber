@@ -4,6 +4,14 @@
 
 Coaching veterans into cybersecurity careers by day. Building the homelab + AI agent stack that powers it by night.
 
+## Featured: AI Safety & Agent Systems
+
+Recent open-source work on making autonomous LLM agents safe to run:
+
+- **[llm-agent-injection-redteam](https://github.com/Scargiver-cyber/llm-agent-injection-redteam)** — a reproducible red-team of a real agent's prompt-injection defenses. A crafted filename made the agent destroy a legitimate file in 60-100% of trials; the only defense that held was the deterministic constrained action space, not the model-level filters. Includes a short paper.
+- **[soong-ai-proxy](https://github.com/Scargiver-cyber/soong-ai-proxy)** — a self-healing AI gateway: circuit breaker with QoS lanes, multi-backend failover, semantic cache, and a two-stage egress scrubber that keeps secrets out of cloud calls. 37 passing tests.
+- **[ralph-loop](https://github.com/Scargiver-cyber/ralph-loop)** — an autonomous multi-iteration coding loop that resets context each pass to avoid drift.
+
 ## What I'm Doing Now
 
 - **Cybersecurity Coach** at [RapidAscent](https://rapidascent.com) — I coach vets through our cyber curriculum, run and maintain the VM range cohorts use for hands-on labs, and support students 1:1 on cyber issues outside of class. Curriculum depth: Splunk, Active Directory, MITRE ATT&CK, threat hunting, incident response, GRC.
@@ -22,6 +30,9 @@ Coaching veterans into cybersecurity careers by day. Building the homelab + AI a
 
 | Project | What It Does |
 |---|---|
+| [llm-agent-injection-redteam](https://github.com/Scargiver-cyber/llm-agent-injection-redteam) | Red-team of a real agent's prompt-injection defenses (+ paper) |
+| [soong-ai-proxy](https://github.com/Scargiver-cyber/soong-ai-proxy) | Self-healing AI proxy: circuit breaker, failover, semantic cache, egress scrubber |
+| [ralph-loop](https://github.com/Scargiver-cyber/ralph-loop) | Fresh-context autonomous coding loop for Claude Code |
 | [cyber-news-automation](https://github.com/Scargiver-cyber/cyber-news-automation) | Automated daily cyber briefings + weekly digests → Obsidian |
 | [security-scanning](https://github.com/Scargiver-cyber/security-scanning) | Monthly network vuln scans with reporting |
 | [Password-security-toolkit](https://github.com/Scargiver-cyber/Password-security-toolkit) | CLI for password analysis + breach checking |
